@@ -1,0 +1,62 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "What fraction of the shape is blue?",
+      "options": [
+          "<sup>1</sup>&frasl;<sub>4</sub>",
+          "<sup>1</sup>&frasl;<sub>2</sub>",
+          "<sup>1</sup>&frasl;<sub>8</sub>",
+          "<sup>5</sup>&frasl;<sub>8</sub>"
+      ],
+      "correct": 1,
+      "secondImg":"./images/18.png"
+  },
+  {
+      "questionNo": "Q2",
+      "question": "What fraction of the shape is green?",
+      "options": [
+          "<sup>1</sup>&frasl;<sub>2</sub>",
+          "<sup>1</sup>&frasl;<sub>3</sub>",
+          "<sup>2</sup>&frasl;<sub>3</sub>",
+          "<sup>1</sup>&frasl;<sub>4</sub>"
+      ],
+      "correct": 2,
+      "secondImg":"./images/19.png"
+  },
+  {
+      "questionNo": "Q3",
+      "question": "What fraction of the shape is orange?",
+      "options": [
+          "<sup>1</sup>&frasl;<sub>4</sub>",
+          "<sup>1</sup>&frasl;<sub>3</sub>",
+          "<sup>1</sup>&frasl;<sub>2</sub>",
+          "<sup>2</sup>&frasl;<sub>3</sub>"
+      ],
+      "correct": 2,
+      "secondImg":"./images/20.png"
+  },
+  {
+      "questionNo": "Q4",
+      "question": "What part of the fraction is blue?",
+      "options": [
+          "<sup>3</sup>&frasl;<sub>8</sub>",
+          "<sup>1</sup>&frasl;<sub>4</sub>",
+          "<sup>3</sup>&frasl;<sub>4</sub>",
+          "<sup>2</sup>&frasl;<sub>3</sub>"
+      ],
+      "correct": 2,
+      "secondImg":"./images/21.png"
+  },
+  {
+      "questionNo": "Q5",
+      "question": "What part of the fraction is pink?",
+      "options": [
+          "<sup>1</sup>&frasl;<sub>4</sub>",
+          "<sup>1</sup>&frasl;<sub>8</sub>",
+          "<sup>1</sup>&frasl;<sub>5</sub>",
+          "<sup>2</sup>&frasl;<sub>3</sub>"
+      ],
+      "correct": 0,
+      "secondImg":"./images/22.png"
+  }
+]
